@@ -2,4 +2,10 @@
 node_modules/
 
 # Ignore the lock file created by npm
-package-lock.json
+package-lock.
+
+# Ignore Mobile app mometarily
+mobile/
+
+# Ignore mobile componenets
+mobilie/app/
